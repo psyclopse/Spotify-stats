@@ -1,0 +1,12 @@
+Request your data from spotify
+download
+extract
+copy all data to a single file 
+(For accurate results copy only the data from the year you are interested in)
+save as  "spotify_data.json"
+move it to safe folder as the python code 
+
+Run cmd
+change directory to the location of the python code 
+type this "python spotify_data.py"
+press enter 
